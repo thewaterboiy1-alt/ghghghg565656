@@ -1,0 +1,6 @@
+{
+  "name": "สมุดตังค์ — บันทึกรายรับรายจ่ายรายวัน",
+  "description": "แอปบันทึกรายรับ-รายจ่ายรายวัน สรุปยอดเงินคงเหลือ แจ้งเตือนบันทึกทุกวัน และกราฟสัดส่วนการใช้จ่ายรายเดือน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
